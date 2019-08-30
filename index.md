@@ -9,9 +9,7 @@ I am an Assistant Professor in [Ministry of Education Key Lab for Intelligent Ne
 
 No. 28, Xianning West Road, Xi'an Jiaotong University, Xi'an 710049, China
 
-**Research Interests**
-
-Android malware detection, familial identification, privacy policy analysis, Software plagiarism, AI testing
+**Research Interests**: Android malware detection, familial identification, privacy policy analysis, Software plagiarism, AI testing
 
 ## Education
 
