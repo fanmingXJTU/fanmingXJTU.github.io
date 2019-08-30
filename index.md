@@ -50,12 +50,12 @@ No. 28, Xianning West Road, Xi'an Jiaotong University, Xi'an 710049, China
 - 郑庆华，田振洲，**范铭**，刘烃，庄尔悦. 基于变长系统调用序列胎记的报税人身份在线识别方法, ZL 201410320245.2, 2015/10/21.
 - 刘烃，**范铭**，田振洲，郑庆华，刘均. 基于栈操作胎记的报税人身份动态认证方法, ZL 201410320243.3, 2015/7/8
 
-
+## Research Grants
+- Young Scientists Fund of the National Natural Science Foundation of China (No. 61902306 ) , 290,000CNY, 2020.1-2022.12
+- China postdoctoral science special foundation, 180,000CNY, 2020.1-2021.12
+- Basic scientific research projects in Xi'an Jiaotong University, 100,000CNY, 2019.1-2021.12
 
 ## Academic Services
 - Reviewer of IEEE ACCESS, FGCS, and SCIENTIA SINICA Informationis
 - Volunteer of IEEE ICST
 
-## Teaching Assistant
-- COMP-2322 Computer Networking, PolyU, 2018
-- COMP-5527 Mobile Computing and Data Management, PolyU, 2017
