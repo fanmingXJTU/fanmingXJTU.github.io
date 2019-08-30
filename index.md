@@ -1,21 +1,24 @@
 ## Welcome to the FanMing Homepage
 
-**Fan Ming **
+## Fan Ming 
 
 [mailto:mingfan@mail.xjtu.edu.cn](mailto:mingfan@mail.xjtu.edu.cn)
 
-Assistant Professor (April 2019~now), [Ministry of Education Key Lab for Intelligent Networks and Network Security](http://nskeylab.xjtu.edu.cn/site/lab/)
+I am an Assistant Professor in [Ministry of Education Key Lab for Intelligent Networks and Network Security](http://nskeylab.xjtu.edu.cn/site/lab/), School of Cyberspace Engineering, Xi'an Jiaotong Unviersity. I am now working as a research fellow with Prof. [Liu Yang](https://www.ntu.edu.sg/home/yangliu/) in NTU, Singapore.
 
-No. 28, Xianning West Road,
-Xi'an Jiaotong University,
-Xi'an 710049, China
 
-**Short Biography**
 
-I am now working as a research fellow with Prof. [Liu Yang](https://www.ntu.edu.sg/home/yangliu/) in NTU, Singapore. I received the B.S. and Ph.D. degrees in the department of Computer Science and Technology from Xi’an Jiaotong University (XJTU) in June 2013 and March 2019 respectively,under the supervision of Prof. [Jun Liu](http://gr.xjtu.edu.cn/web/liukeen/1) and Prof. [Ting Liu](http://gr.xjtu.edu.cn/web/tingliu). I also received the Ph.D. degree in the department of Computing from The Hong Kong Polytechnic University  (PolyU) in June 2019, under the supervision of Associate Professor [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
+No. 28, Xianning West Road, Xi'an Jiaotong University, Xi'an 710049, China
 
 **Research Interests**
+
 Android malware detection, familial identification, privacy policy analysis, Software plagiarism, AI testing
+
+## Education
+
+- Ph.D., Department of Computing, The Hong Kong Polytechnic University, 2015.3-2019.6, under the supervision of Associate Professor [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/)
+- Ph.D., Department of Computer Science and Technology, Xi'an Jiaotong University, 2013.9-2019.3, under the supervision of Prof. [Jun Liu](http://gr.xjtu.edu.cn/web/liukeen/1) and Prof. [Ting Liu](http://gr.xjtu.edu.cn/web/tingliu)
+- B.S., Department of Computer Science and Technology, Xi'an Jiaotong University, 2009.9-2013.6
 
 ### Selected Awards
 
