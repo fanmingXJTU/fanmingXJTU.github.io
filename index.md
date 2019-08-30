@@ -1,6 +1,16 @@
 ## Welcome to the FanMing Homepage
 
+**Fan Ming **
+[mailto:mingfan@mail.xjtu.edu.cn](mailto:mingfan@mail.xjtu.edu.cn)
 
+Assistant Professor (April 2019~now), [Ministry of Education Key Lab for Intelligent Networks and Network Security](http://nskeylab.xjtu.edu.cn/site/lab/)
+
+No. 28, Xianning West Road,
+Xi'an Jiaotong University,
+Xi'an 710049, China
+
+**Short Biography**
+I am now working as a research fellow with Prof. [Liu Yang](https://www.ntu.edu.sg/home/yangliu/) in NTU, Singapore. I received the B.S. and Ph.D. degrees in the department of Computer Science and Technology from Xi’an Jiaotong University (XJTU) in June 2013 and March 2019 respectively,under the supervision of Prof. [Jun Liu](http://gr.xjtu.edu.cn/web/liukeen/1) and Prof. [Ting Liu](http://gr.xjtu.edu.cn/web/tingliu). I also received the Ph.D. degree in the department of Computing from The Hong Kong Polytechnic University  (PolyU) in June 2019, under the supervision of Associate Professor [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
 
 ### Markdown
