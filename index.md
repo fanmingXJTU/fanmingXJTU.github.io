@@ -1,4 +1,3 @@
-## Welcome to the FanMing Homepage
 
 ## Fan Ming 
 
