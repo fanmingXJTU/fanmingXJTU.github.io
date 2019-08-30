@@ -29,7 +29,6 @@ Android malware detection, familial identification, privacy policy analysis, Sof
  - Best research paper award in 27th IEEE International Symposium on Software Reliability Engineering (CCF B), 2016
  - Best demo award in 26th International Conference on Software Engineering and Knowledge Engineering (CCF C), 2014
 
-## Selected Publications
 
 ## Selected Publications
 
@@ -44,15 +43,10 @@ Android malware detection, familial identification, privacy policy analysis, Sof
 9. Zhenzhou Tian, Qinghua Zheng, **Ming Fan**, Eryue Zhuang, Haijun Wang, Ting Liu. "DBPD: A Dynamic Birthmark-based Software Plagiarism Detection Tool". 26th International Conference on Software Engineering and Knowledge Engineering(SEKE), ***Best demo award***, pp. 740-741, 2014 (CCF C).
 10. Zhenzhou Tian, Qinghua Zheng, Ting Liu, Ming Fan, Xiaodong Zhang, Zijiang Yang. "Plagiarism detection for multithreaded software based on thread-aware software birthmarks". Proceedings of the 22nd International Conference on Program Comprehension (ICPC), pp. 304-313, 2014 (CCF C).
 
-[Link](url) and ![Image](src)
-```
+## Academic Services
+- Reviewer of IEEE ACCESS, FGCS, and SCIENTIA SINICA Informationis
+- Volunteer of IEEE ICST
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fanmingXJTU/fanmingXJTU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Teaching Assistant
+- COMP-2322 Computer Networking, PolyU, 2018
+- COMP-5527 Mobile Computing and Data Management, PolyU, 2017
