@@ -41,6 +41,17 @@ No. 28, Xianning West Road, Xi'an Jiaotong University, Xi'an 710049, China
 9. Zhenzhou Tian, Qinghua Zheng, **Ming Fan**, Eryue Zhuang, Haijun Wang, Ting Liu. "DBPD: A Dynamic Birthmark-based Software Plagiarism Detection Tool". 26th International Conference on Software Engineering and Knowledge Engineering(SEKE), ***Best demo award***, pp. 740-741, 2014 (CCF C).
 10. Zhenzhou Tian, Qinghua Zheng, Ting Liu, Ming Fan, Xiaodong Zhang, Zijiang Yang. "Plagiarism detection for multithreaded software based on thread-aware software birthmarks". Proceedings of the 22nd International Conference on Program Comprehension (ICPC), pp. 304-313, 2014 (CCF C).
 
+## Patents
+
+- 刘均， 刘烃，**范铭**， 郑庆华，陈天一，刘恒，农春崯，田振洲，庄尔悦. 基于敏感子图的安卓恶意重打包软件检测方法, ZL 201610590632.7, 2019/2/5.
+- Qinghua Zheng, Ting Liu, Jun Liu, **Ming Fan**, Zhenzhou Tian. The method for Plagiarism Detection of Multi-threaded Program based on Thread Slice Birthmark. US Patent, Number: 14/759,642, 2017/5/16.
+- 郑庆华，刘均，**范铭**，田振洲，刘烃，杨子江. 基于线程切片胎记的多线程软件抄袭检测方法, ZL 201410076931.X, 2016/12/7.
+- 郑庆华，田振洲，刘烃，**范铭**. 基于动态关键指令序列胎记的软件抄袭检测方法, ZL 201310449858.1, 2016/3/30.
+- 郑庆华，田振洲，**范铭**，刘烃，庄尔悦. 基于变长系统调用序列胎记的报税人身份在线识别方法, ZL 201410320245.2, 2015/10/21.
+- 刘烃，**范铭**，田振洲，郑庆华，刘均. 基于栈操作胎记的报税人身份动态认证方法, ZL 201410320243.3, 2015/7/8
+
+
+
 ## Academic Services
 - Reviewer of IEEE ACCESS, FGCS, and SCIENTIA SINICA Informationis
 - Volunteer of IEEE ICST
