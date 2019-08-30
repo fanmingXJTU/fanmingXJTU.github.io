@@ -9,7 +9,7 @@ I am an Assistant Professor in [Ministry of Education Key Lab for Intelligent Ne
 
 No. 28, Xianning West Road, Xi'an Jiaotong University, Xi'an 710049, China
 
-**Research Interests**: Android malware detection, familial identification, privacy policy analysis, Software plagiarism, AI testing
+**Research Interests**: Android malware detection and familial identification, Privacy policy analysis, Software plagiarism, AI testing
 
 ## Education
 
@@ -39,7 +39,7 @@ No. 28, Xianning West Road, Xi'an Jiaotong University, Xi'an 710049, China
 7. Zhenzhou Tian, Ting Liu, Qinghua Zheng, **Ming Fan**, Eryue Zhuang, Zijiang Yang. "Exploiting thread-related system calls for plagiarism detection of multithreaded programs". The Journal of Systems and Software (JSS), vol. 119, pp. 136-148, 2016 (CCF B).
 8. Zhenzhou Tian, Qinghua Zheng, Ting Liu, **Ming Fan**, Eryue Zhuang, Zijiang Yang. "Software Plagiarism Detection with Birthmarks Based on Dynamic Key Instruction Sequences". IEEE Transaction on Software Engineering (IEEE TSE), vol. 41, no. 12, pp. 1217-1235, 2015 (CCF A).
 9. Zhenzhou Tian, Qinghua Zheng, **Ming Fan**, Eryue Zhuang, Haijun Wang, Ting Liu. "DBPD: A Dynamic Birthmark-based Software Plagiarism Detection Tool". 26th International Conference on Software Engineering and Knowledge Engineering(SEKE), ***Best demo award***, pp. 740-741, 2014 (CCF C).
-10. Zhenzhou Tian, Qinghua Zheng, Ting Liu, Ming Fan, Xiaodong Zhang, Zijiang Yang. "Plagiarism detection for multithreaded software based on thread-aware software birthmarks". Proceedings of the 22nd International Conference on Program Comprehension (ICPC), pp. 304-313, 2014 (CCF C).
+10. Zhenzhou Tian, Qinghua Zheng, Ting Liu, **Ming Fan**, Xiaodong Zhang, Zijiang Yang. "Plagiarism detection for multithreaded software based on thread-aware software birthmarks". Proceedings of the 22nd International Conference on Program Comprehension (ICPC), pp. 304-313, 2014 (CCF C).
 
 ## Patents
 
